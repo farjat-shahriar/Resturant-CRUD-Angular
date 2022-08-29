@@ -1,0 +1,54 @@
+{
+  "restaurants": [
+    {
+      "name": "kacci bhai",
+      "email": "kacci@gmail.com",
+      "address": "dhanmondi 27",
+      "id": 1
+    },
+    {
+      "name": "pizza Hut",
+      "email": "pizza@gmail.com",
+      "address": "gulshan 1",
+      "id": 2
+    },
+    {
+      "name": "biriyani House",
+      "email": "biriyani@text.com",
+      "address": "nodda",
+      "id": 3
+    },
+    {
+      "name": "burger king",
+      "email": "burger@gmail.com",
+      "address": "banani 2",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "farjat shahriar",
+      "email": "f@gmail.com",
+      "address": "12345",
+      "id": 1
+    },
+    {
+      "name": "riday",
+      "email": "e@gmail.com",
+      "address": "12345",
+      "id": 2
+    },
+    {
+      "name": "zsa",
+      "email": "aa",
+      "address": "a",
+      "id": 3
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "address": "a",
+      "id": 4
+    }
+  ]
+}
